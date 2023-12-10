@@ -1,5 +1,5 @@
 # OpenScap
 
-* [OpenSCAP GNU/Linux](guia/OpenSCAP_linux.rst)
-* [OpenSCAP Windows](guia/Openscap_Windows.rst)
+* [OpenSCAP GNU/Linux](guias/OpenSCAP_linux.rst)
+* [OpenSCAP Windows](guias/Openscap_Windows.rst)
 
